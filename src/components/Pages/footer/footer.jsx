@@ -49,9 +49,9 @@ const Footer = () => {
       idValue: "contact-us-email",
     },
     {
-      footerContactUsData: "+971 54 451 9432",
+      footerContactUsData: "+971 50 105 9845",
       IconName: BiSolidPhone,
-      href: "tel:+971544519432",
+      href: "tel:+971501059845",
       idValue: "contact-us-phone-number",
     },
   ];
