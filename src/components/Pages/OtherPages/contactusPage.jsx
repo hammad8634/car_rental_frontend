@@ -73,7 +73,7 @@ const ContactusPage = () => {
                           <h4 className="title heading-font">Phone Number</h4>
                           <div className="content">
                             <p className="contact-us-address-text">
-                              +971 54 451 9432
+                              +971 50 105 9845
                             </p>
                           </div>
                         </div>
